@@ -2,11 +2,11 @@
 
 Soy Inci, soy una alumna de el Jardín Montessori
 
--La música
--El amor
--El mar
--El bosque
--Los ranchos
+- La música
+- El amor
+- El mar
+- El bosque
+- Los ranchos
 
 fotos:
 
